@@ -1,0 +1,78 @@
+{
+  "meta":{"minimum_rating":4.0,"source":"Google Maps / current local business results","verified_at":"2026-09-06"},
+  "restoranlar":[
+    {"name":"Le Chevy Restaurant","rating":4.9,"reviews":null,"address":"Damlataş Cd. No:76, Alanya/Antalya","phone":null},
+    {"name":"Cozy Alanya","rating":4.8,"reviews":null,"address":"Damlataş Cd. No:51, Alanya/Antalya","phone":null},
+    {"name":"Cafe Local","rating":4.8,"reviews":null,"address":"Yunus Emre Cd. No:16, Alanya/Antalya","phone":null},
+    {"name":"Costa Flamingo Lounge","rating":4.6,"reviews":184,"address":"Güller Pınarı, Ahmet Tokuş Blv. No:56/1, Alanya/Antalya","phone":"+90 242 513 99 66"}
+  ],
+  "kafeler":[
+    {"name":"Cafe Local","rating":4.8,"reviews":null,"address":"Yunus Emre Cd. No:16, Alanya/Antalya","phone":null},
+    {"name":"Costa Flamingo Lounge","rating":4.6,"reviews":184,"address":"Güller Pınarı, Ahmet Tokuş Blv. No:56/1, Alanya/Antalya","phone":"+90 242 513 99 66"}
+  ],
+  "kahvalti":[{"name":"Costa Flamingo Lounge","rating":4.6,"reviews":184,"address":"Güller Pınarı, Ahmet Tokuş Blv. No:56/1, Alanya/Antalya","phone":"+90 242 513 99 66"}],
+  "balik-restoranlari":[{"name":"King Fish&grill Restaurant Mahmutlar","rating":4.0,"reviews":null,"address":"Mahmutlar, Alanya/Antalya","phone":"+90 531 679 16 00"}],
+  "kebapcilar":[{"name":"Oba Kırbaşı Kebap ve Baklava","rating":4.3,"reviews":null,"address":"Oba, Fabrika Cd. No:44/1, Alanya/Antalya","phone":null}],
+  "barlar":[{"name":"Huqqaboss Bar","rating":5.0,"reviews":2,"address":"Çarşı Mah., İzzetazakoğlu Cd. No:15, Alanya/Antalya","phone":"+90 507 997 98 02"}],
+  "dis-klinikleri":[
+    {"name":"Alanya OvaDent Dental Clinic","rating":5.0,"reviews":null,"address":"Hoca Ahmet Yesevi Sk. No:29/B A Blok, Alanya/Antalya","phone":"+90 536 493 80 20"},
+    {"name":"Alanya Dental Clinic","rating":4.8,"reviews":null,"address":"Oba Mah. Fabrika Cad. No:11/1-B, Alanya/Antalya","phone":"+90 532 652 50 65"},
+    {"name":"Alanya Oral and Dental Health Center","rating":4.0,"reviews":null,"address":"Fidanlık Cd. No:85, Alanya/Antalya","phone":"+90 242 519 19 44"}
+  ],
+  "dis-hekimleri":[
+    {"name":"Diş Hekimi Mehmet Ali Kaban","rating":5.0,"reviews":null,"address":"Sugözü Cd. Tuncer Temiz Plaza No:7 D:3 Kat:1, Alanya/Antalya","phone":"+90 530 219 30 07"},
+    {"name":"Diş Hekimi Ümmü Topal","rating":4.9,"reviews":null,"address":"106. Sk. 30/A, Alanya/Antalya","phone":"+90 555 186 03 52"},
+    {"name":"Dr. Murat Dikmen","rating":4.7,"reviews":null,"address":"Obagöl Mevkii Cd. 40/9, Alanya/Antalya","phone":"+90 242 514 22 58"}
+  ],
+  "emlakcilar":[
+    {"name":"Alanya Best Home","rating":4.9,"reviews":null,"address":"Güllerpınarı Mah., Kalan Sk. Demirağ Apt. No:24/A, Alanya/Antalya","phone":null},
+    {"name":"Dream Villas in Turkey","rating":4.4,"reviews":7,"address":"Mahmutlar Mah. 259 Nolu Sk., Alanya/Antalya","phone":"+90 534 405 18 08"}
+  ],
+  "emlak-danismanlari":[{"name":"Dream Villas in Turkey","rating":4.4,"reviews":7,"address":"Mahmutlar Mah. 259 Nolu Sk., Alanya/Antalya","phone":"+90 534 405 18 08"}],
+  "insaat-firmalari":[{"name":"Royal Construction Alanya","rating":5.0,"reviews":3,"address":"Kızlar Pınarı, Stad Cd. No:19/B, Alanya/Antalya","phone":"+90 536 493 78 08"}],
+  "oto-ekspertiz":[{"name":"Alanya Garage Auto Pilot Expertise","rating":4.7,"reviews":530,"address":"Küçükhasbahçe, Keykubat Blv. 93/B, Alanya/Antalya","phone":"+90 532 492 20 92"}],
+  "oto-yikama":[{"name":"OTO YIKAMA CAR WASH ALANYA","rating":5.0,"reviews":7,"address":"Büyükhasbahçe, 501 Sok., Alanya/Antalya","phone":"+90 555 066 07 07"}],
+  "oteller":[
+    {"name":"Long Beach Alanya","rating":4.7,"reviews":null,"address":"Türkler Mevkii, Alanya/Antalya","phone":null},
+    {"name":"Aria Riva Hotel Alanya","rating":4.6,"reviews":259,"address":"Saray, Alanya/Antalya","phone":null},
+    {"name":"Xperia Saray Beach Hotel","rating":4.4,"reviews":null,"address":"Saray, Alanya/Antalya","phone":null},
+    {"name":"Misal Hotels Alanya","rating":4.1,"reviews":263,"address":"Konaklı, Kulak Cad. No:31, Alanya/Antalya","phone":"+90 242 745 04 72"}
+  ],
+  "guzellik-merkezleri":[
+    {"name":"Beauty Lux Alanya","rating":4.6,"reviews":34,"address":"Oba Mah. 225. Sok. No:8, Alanya/Antalya","phone":"+90 532 171 89 15"},
+    {"name":"Cosmo Teknik","rating":4.7,"reviews":82,"address":"Şekerhane, Çon Sok. 10, Blok 4 D:8, Alanya/Antalya","phone":"+90 505 076 68 56"}
+  ],
+  "spa-merkezleri":[{"name":"Alanya Spa","rating":5.0,"reviews":1,"address":"Oba, 14. Sk., Alanya/Antalya","phone":null}],
+  "masaj-salonlari":[
+    {"name":"Han Massage Clinics","rating":5.0,"reviews":16,"address":"Saray, Kültür Cd. 13/A, Alanya/Antalya","phone":"+90 535 677 15 80"},
+    {"name":"Massage Studio Alanya Shee-Pha","rating":4.8,"reviews":8,"address":"Kestel, Spor Sokak, Alanya/Antalya","phone":null}
+  ],
+  "lazer-epilasyon":[{"name":"Cosmo Teknik","rating":4.7,"reviews":82,"address":"Şekerhane, Çon Sok. 10, Blok 4 D:8, Alanya/Antalya","phone":"+90 505 076 68 56"}],
+  "tesisatcilar":[{"name":"Alanya Taşkonak Sıhhi Tesisat","rating":5.0,"reviews":7,"address":"Hacet, Keykubat Blv. Bedia Atasev Apt. A Blok 12/A, Alanya/Antalya","phone":"+90 530 218 44 65"}],
+  "klima-servisleri":[{"name":"Özsa Klima Alanya","rating":5.0,"reviews":239,"address":"Kadıpaşa, Lifoğlu Sk. Türktaş Apt B Blok 3/A, Alanya/Antalya","phone":"+90 538 593 78 78"}],
+  "beyaz-esya-servisleri":[{"name":"Portakalteknikservis","rating":5.0,"reviews":7,"address":"Atatürk Cd. No:201, Alanya/Antalya","phone":"+90 539 936 57 96"}],
+  "telefon-tamiri":[{"name":"Alanya Telefon Tamiri - ALAİYE GSM","rating":5.0,"reviews":498,"address":"Şekerhane, Şevket Tokuş Cd. Rami Apt. No:8/B, Alanya/Antalya","phone":"+90 532 390 72 12"}],
+  "cilingirler":[{"name":"Çilingircim","rating":5.0,"reviews":1,"address":"Saray, Abdullah Doğan Sk. 18/8, Alanya/Antalya","phone":"+90 545 687 80 40"}],
+  "marangozlar":[{"name":"Alanya Bahar Mobilya","rating":5.0,"reviews":25,"address":"Cikcilli, 207. Sk. 13/A, Alanya/Antalya","phone":"+90 532 606 52 85"}],
+  "ilaclama-firmalari":[{"name":"Pest İlaçlama","rating":4.5,"reviews":13,"address":"Şekerhane, Yayla Yolu Cd. 13/A, Alanya/Antalya","phone":"+90 242 513 33 07"}],
+  "nakliyat-firmalari":[{"name":"ALANYA ÖZGÜVEN NAKLİYAT","rating":4.9,"reviews":188,"address":"Güller Pınarı, Molla Osman Cd. No:15/D, Alanya/Antalya","phone":"+90 532 417 80 21"}],
+  "avukatlar":[{"name":"BAM Hukuk Bürosu","rating":5.0,"reviews":null,"address":"Hacet Mh. Canlılar Sk. Avukatlar İş Merkezi No:7/1, Alanya/Antalya","phone":null}],
+  "web-tasarim":[{"name":"Web Tasarım Alanya","rating":5.0,"reviews":32,"address":"Şekerhane, 1100. Sk., Alanya/Antalya","phone":"+90 542 486 23 43"}],
+  "yazilim-sirketleri":[{"name":"Web Tasarım Alanya","rating":5.0,"reviews":32,"address":"Şekerhane, 1100. Sk., Alanya/Antalya","phone":"+90 542 486 23 43"}],
+  "fotografcilar":[{"name":"Foto Alanya | Wedding Photographer Alanya","rating":4.9,"reviews":168,"address":"Saray, Hasret Sk. Galaxy 1 Sitesi No:11, Alanya/Antalya","phone":"+90 553 635 88 77"}],
+  "giyim-magazalari":[{"name":"Civil - Antalya / Alanya","rating":4.0,"reviews":44,"address":"Saray, Atatürk Blv. No:72, Alanya/Antalya","phone":"+90 242 505 81 54"}],
+  "ayakkabi-magazalari":[
+    {"name":"RAFAELLO BAG Alanya","rating":5.0,"reviews":9,"address":"Şekerhane, Sinanoğlu Sk. No:14/C, Alanya/Antalya","phone":"+90 539 514 02 07"},
+    {"name":"Veka bag&shoes Alanya","rating":5.0,"reviews":15,"address":"Tosmur, Eski Gazipaşa Cd. 14B, Alanya/Antalya","phone":"+90 552 607 24 01"}
+  ],
+  "canta-magazalari":[
+    {"name":"RAFAELLO BAG Alanya","rating":5.0,"reviews":9,"address":"Şekerhane, Sinanoğlu Sk. No:14/C, Alanya/Antalya","phone":"+90 539 514 02 07"},
+    {"name":"Veka bag&shoes Alanya","rating":5.0,"reviews":15,"address":"Tosmur, Eski Gazipaşa Cd. 14B, Alanya/Antalya","phone":"+90 552 607 24 01"}
+  ],
+  "hediyelik-esya":[{"name":"Veka bag&shoes Alanya","rating":5.0,"reviews":15,"address":"Tosmur, Eski Gazipaşa Cd. 14B, Alanya/Antalya","phone":"+90 552 607 24 01"}],
+  "yapi-marketler":[{"name":"Koçtaş Alanya","rating":4.1,"reviews":3121,"address":"Oba, Eski Gazipaşa Cd. No:46/1, Alanya/Antalya","phone":"+90 242 510 08 00"}],
+  "surucu-kurslari":[
+    {"name":"Yeşil Alanya Sürücü Kursu","rating":4.4,"reviews":33,"address":"Şekerhane, Kaptanoğlu Sk., Alanya/Antalya","phone":"+90 242 513 78 57"},
+    {"name":"Private Alanya Center Driving School","rating":4.0,"reviews":24,"address":"Saray, Kalearkası Sk., Alanya/Antalya","phone":"+90 242 513 99 53"}
+  ]
+}
