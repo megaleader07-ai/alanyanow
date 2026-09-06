@@ -58,7 +58,7 @@
   "ilaclama-firmalari":[{"name":"Pest İlaçlama","rating":4.5,"reviews":13,"address":"Şekerhane, Yayla Yolu Cd. 13/A, Alanya/Antalya","phone":"+90 242 513 33 07"}],
   "nakliyat-firmalari":[{"name":"ALANYA ÖZGÜVEN NAKLİYAT","rating":4.9,"reviews":188,"address":"Güller Pınarı, Molla Osman Cd. No:15/D, Alanya/Antalya","phone":"+90 532 417 80 21"}],
   "avukatlar":[
-    {"name":"Avukat İbrahim Yıldız","rating":null,"reviews":null,"address":"Alanya/Antalya","phone":null,"website":null,"source":"AlanyaNow manuel kayıt"},
+    {"name":"Avukat İbrahim Yıldız - Alanya Avukat Bürosu","rating":4.9,"reviews":103,"address":"Ali Gürses İş Merkezi, Güller Pınarı, No:144/204, 07400 Alanya/Antalya","phone":"+90 507 072 70 82","website":null,"source":"Google Maps","hours":"24 saat açık"},
     {"name":"BAM Hukuk Bürosu","rating":5.0,"reviews":null,"address":"Hacet Mh. Canlılar Sk. Avukatlar İş Merkezi No:7/1, Alanya/Antalya","phone":null}
   ],
   "web-tasarim":[{"name":"Web Tasarım Alanya","rating":5.0,"reviews":32,"address":"Şekerhane, 1100. Sk., Alanya/Antalya","phone":"+90 542 486 23 43"}],
