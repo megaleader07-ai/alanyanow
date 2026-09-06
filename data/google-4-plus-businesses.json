@@ -1,5 +1,5 @@
 {
-  "meta":{"minimum_rating":4.0,"source":"Google Maps / current local business results","verified_at":"2026-09-06"},
+  "meta":{"minimum_rating":4.0,"source":"Google Maps / current local business results + AlanyaNow manuel kayıtlar","verified_at":"2026-09-06"},
   "restoranlar":[
     {"name":"Le Chevy Restaurant","rating":4.9,"reviews":null,"address":"Damlataş Cd. No:76, Alanya/Antalya","phone":null},
     {"name":"Cozy Alanya","rating":4.8,"reviews":null,"address":"Damlataş Cd. No:51, Alanya/Antalya","phone":null},
@@ -39,6 +39,7 @@
     {"name":"Misal Hotels Alanya","rating":4.1,"reviews":263,"address":"Konaklı, Kulak Cad. No:31, Alanya/Antalya","phone":"+90 242 745 04 72"}
   ],
   "guzellik-merkezleri":[
+    {"name":"MBY Güzellik Merkezi","rating":null,"reviews":null,"address":"Alanya/Antalya","phone":null,"website":null,"source":"AlanyaNow manuel kayıt"},
     {"name":"Beauty Lux Alanya","rating":4.6,"reviews":34,"address":"Oba Mah. 225. Sok. No:8, Alanya/Antalya","phone":"+90 532 171 89 15"},
     {"name":"Cosmo Teknik","rating":4.7,"reviews":82,"address":"Şekerhane, Çon Sok. 10, Blok 4 D:8, Alanya/Antalya","phone":"+90 505 076 68 56"}
   ],
@@ -56,7 +57,10 @@
   "marangozlar":[{"name":"Alanya Bahar Mobilya","rating":5.0,"reviews":25,"address":"Cikcilli, 207. Sk. 13/A, Alanya/Antalya","phone":"+90 532 606 52 85"}],
   "ilaclama-firmalari":[{"name":"Pest İlaçlama","rating":4.5,"reviews":13,"address":"Şekerhane, Yayla Yolu Cd. 13/A, Alanya/Antalya","phone":"+90 242 513 33 07"}],
   "nakliyat-firmalari":[{"name":"ALANYA ÖZGÜVEN NAKLİYAT","rating":4.9,"reviews":188,"address":"Güller Pınarı, Molla Osman Cd. No:15/D, Alanya/Antalya","phone":"+90 532 417 80 21"}],
-  "avukatlar":[{"name":"BAM Hukuk Bürosu","rating":5.0,"reviews":null,"address":"Hacet Mh. Canlılar Sk. Avukatlar İş Merkezi No:7/1, Alanya/Antalya","phone":null}],
+  "avukatlar":[
+    {"name":"Avukat İbrahim Yıldız","rating":null,"reviews":null,"address":"Alanya/Antalya","phone":null,"website":null,"source":"AlanyaNow manuel kayıt"},
+    {"name":"BAM Hukuk Bürosu","rating":5.0,"reviews":null,"address":"Hacet Mh. Canlılar Sk. Avukatlar İş Merkezi No:7/1, Alanya/Antalya","phone":null}
+  ],
   "web-tasarim":[{"name":"Web Tasarım Alanya","rating":5.0,"reviews":32,"address":"Şekerhane, 1100. Sk., Alanya/Antalya","phone":"+90 542 486 23 43"}],
   "yazilim-sirketleri":[{"name":"Web Tasarım Alanya","rating":5.0,"reviews":32,"address":"Şekerhane, 1100. Sk., Alanya/Antalya","phone":"+90 542 486 23 43"}],
   "fotografcilar":[{"name":"Foto Alanya | Wedding Photographer Alanya","rating":4.9,"reviews":168,"address":"Saray, Hasret Sk. Galaxy 1 Sitesi No:11, Alanya/Antalya","phone":"+90 553 635 88 77"}],
@@ -69,7 +73,10 @@
     {"name":"RAFAELLO BAG Alanya","rating":5.0,"reviews":9,"address":"Şekerhane, Sinanoğlu Sk. No:14/C, Alanya/Antalya","phone":"+90 539 514 02 07"},
     {"name":"Veka bag&shoes Alanya","rating":5.0,"reviews":15,"address":"Tosmur, Eski Gazipaşa Cd. 14B, Alanya/Antalya","phone":"+90 552 607 24 01"}
   ],
-  "hediyelik-esya":[{"name":"Veka bag&shoes Alanya","rating":5.0,"reviews":15,"address":"Tosmur, Eski Gazipaşa Cd. 14B, Alanya/Antalya","phone":"+90 552 607 24 01"}],
+  "hediyelik-esya":[
+    {"name":"Maziden Bir Yaprak","rating":null,"reviews":null,"address":"Alanya/Antalya","phone":null,"website":"https://mazidenbiryaprak.com","source":"AlanyaNow manuel kayıt"},
+    {"name":"Veka bag&shoes Alanya","rating":5.0,"reviews":15,"address":"Tosmur, Eski Gazipaşa Cd. 14B, Alanya/Antalya","phone":"+90 552 607 24 01"}
+  ],
   "yapi-marketler":[{"name":"Koçtaş Alanya","rating":4.1,"reviews":3121,"address":"Oba, Eski Gazipaşa Cd. No:46/1, Alanya/Antalya","phone":"+90 242 510 08 00"}],
   "surucu-kurslari":[
     {"name":"Yeşil Alanya Sürücü Kursu","rating":4.4,"reviews":33,"address":"Şekerhane, Kaptanoğlu Sk., Alanya/Antalya","phone":"+90 242 513 78 57"},
