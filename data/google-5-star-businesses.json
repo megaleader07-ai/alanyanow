@@ -1,0 +1,58 @@
+{
+  "restoranlar": [
+    {"name":"Peri Lezzet Evi Ev Yemekleri","rating":5.0,"reviews":23,"address":"Kadıpaşa, Stad Cd. No:8, 07400 Alanya/Antalya","phone":"+90 536 863 22 53","source":"Google Maps"},
+    {"name":"HANE DÖNER","rating":5.0,"reviews":null,"address":"Oba, Hacı Kadiroğlu Cd. no:16, 07460 Alanya/Antalya","phone":"+90 532 470 14 42","source":"Google Maps"}
+  ],
+  "dis-klinikleri": [
+    {"name":"Alanya OvaDent Dental Clinic","rating":5.0,"reviews":null,"address":"Hoca Ahmet Yesevi Sk. No:29/B A Blok, Alanya/Antalya","phone":"+90 536 493 80 20","source":"Google Maps"},
+    {"name":"Diş Hekimi Mehmet Ali Kaban","rating":5.0,"reviews":null,"address":"Sugözü Cd. Tuncer Temiz Plaza No:7 D:3 Kat:1, Alanya/Antalya","phone":"+90 530 219 30 07","source":"Google Maps"},
+    {"name":"Diş Hekimi M. Cemil Alpaydın","rating":5.0,"reviews":null,"address":"Mahmutlar, Barbaros Cd. No:161, Alanya/Antalya","phone":"+90 532 251 97 07","source":"Google Maps"}
+  ],
+  "emlakcilar": [
+    {"name":"Star Emlak","rating":5.0,"reviews":6,"address":"Güller Pınarı, Şahoğlu Sk. No:28, Alanya/Antalya","phone":null,"source":"Google Maps"},
+    {"name":"Home Alanya Real Estate","rating":5.0,"reviews":null,"address":"Oba Mah. Fabrika Cad. Karakuşlar Sk. Karakuş Apt C Blok No:10, Alanya/Antalya","phone":"+90 535 322 73 73","source":"Google Maps"}
+  ],
+  "erkek-berberleri": [
+    {"name":"STAR BERBER","rating":5.0,"reviews":5,"address":"Avsallar, Hatip Sk., 07410 Alanya/Antalya","phone":null,"source":"Google Maps"}
+  ],
+  "kadin-kuaforleri": [
+    {"name":"ESER HAİR STUDİO","rating":5.0,"reviews":18,"address":"Güller Pınarı, Sahire Tüzün Cd. No:5/A, Alanya/Antalya","phone":"+90 545 770 97 83","source":"Google Maps"}
+  ],
+  "guzellik-merkezleri": [
+    {"name":"alanya beauty aesthetic","rating":5.0,"reviews":1,"address":"Saray, Atatürk Blv. No:56/5, Alanya/Antalya","phone":"+90 242 511 60 06","source":"Google Maps"}
+  ],
+  "avukatlar": [
+    {"name":"Kalem Law Office","rating":5.0,"reviews":3,"address":"Hacet, Canlılar Sk. No:13/5, Alanya/Antalya","phone":"+90 553 417 23 13","source":"Google Maps"}
+  ],
+  "dovme-studyolari": [
+    {"name":"STAR INK Alanya Tattoo&Piercing","rating":5.0,"reviews":469,"address":"Çarşı, Damlataş Cd. 71C, Alanya/Antalya","phone":"+90 544 548 92 54","source":"Google Maps"}
+  ],
+  "tesisatcilar": [
+    {"name":"Alanya Taşkonak Sıhhi Tesisat","rating":5.0,"reviews":7,"address":"Hacet, Keykubat Blv. Bedia Atasev Apt. A Blok 12/A, Alanya/Antalya","phone":"+90 530 218 44 65","source":"Google Maps"}
+  ],
+  "klima-servisleri": [
+    {"name":"Özsa Klima Alanya","rating":5.0,"reviews":239,"address":"Kadıpaşa, Lifoğlu Sk. Türktaş Apt B Blok 3/A, Alanya/Antalya","phone":"+90 538 593 78 78","source":"Google Maps"}
+  ],
+  "web-tasarim": [
+    {"name":"Enextware Technology","rating":5.0,"reviews":11,"address":"Saray, Fevziler Sk. Aleaddinoğlu Apt, Alanya/Antalya","phone":"+90 536 628 00 07","source":"Google Maps"}
+  ],
+  "yazilim-sirketleri": [
+    {"name":"Enextware Technology","rating":5.0,"reviews":11,"address":"Saray, Fevziler Sk. Aleaddinoğlu Apt, Alanya/Antalya","phone":"+90 536 628 00 07","source":"Google Maps"}
+  ],
+  "pilates-studyolari": [
+    {"name":"Alanya Hedef Pilates & EMS Studio","rating":5.0,"reviews":1,"address":"Kestel, İsa Küçülmez Cd. Atalay Residence C Blok, Alanya/Antalya","phone":"+90 552 840 05 59","source":"Google Maps"}
+  ],
+  "telefon-tamiri": [
+    {"name":"Alanya Telefon Tamiri - ALAİYE GSM","rating":5.0,"reviews":498,"address":"Şekerhane, Şevket Tokuş Cd. Rami Apt. No:8/B, Alanya/Antalya","phone":"+90 532 390 72 12","source":"Google Maps"}
+  ],
+  "oto-servisleri": [
+    {"name":"CAN OTO TAMİR & BAKIM SERVİSİ","rating":5.0,"reviews":null,"address":"Payallar, Konaklı Sanayi Sitesi E Blok No:71, Alanya/Antalya","phone":null,"source":"Google Maps"}
+  ],
+  "seyahat-acenteleri": [
+    {"name":"Turkey Excursion by EIT Travel","rating":5.0,"reviews":null,"address":"3. Sk., Alanya/Antalya","phone":"+90 506 371 79 71","source":"Google Maps"},
+    {"name":"AK ALANYA TRAVEL","rating":5.0,"reviews":null,"address":"Konak Sokak No:7/B, Alanya/Antalya","phone":"+90 537 979 53 30","source":"Google Maps"}
+  ],
+  "insaat-firmalari": [
+    {"name":"Royal Grand Exclusive","rating":5.0,"reviews":null,"address":"Kızlar Pınarı, Mehmet Akif Ersoy Cd. No:18, Alanya/Antalya","phone":"+90 242 522 22 14","source":"Google Maps"}
+  ]
+}
