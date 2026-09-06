@@ -2,3 +2,15 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^alanya-([a-z0-9-]+)\.html$ kategori.php?slug=$1 [L,QSA]
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|htm|php|json|css|js|svg)$">
+    Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive Off
+</IfModule>
